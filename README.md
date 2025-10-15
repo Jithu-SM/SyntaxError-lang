@@ -17,7 +17,7 @@ make
 Run example:
 ```
 
-./sntx run ../examples/hello.sntx
+./sntx.exe ../examples/hello.sntx
 
 ```
 ```
