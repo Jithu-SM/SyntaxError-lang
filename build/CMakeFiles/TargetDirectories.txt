@@ -1,3 +1,0 @@
-C:/Users/Jithu S/Desktop/SyntaxError/build/CMakeFiles/sntx.dir
-C:/Users/Jithu S/Desktop/SyntaxError/build/CMakeFiles/edit_cache.dir
-C:/Users/Jithu S/Desktop/SyntaxError/build/CMakeFiles/rebuild_cache.dir
